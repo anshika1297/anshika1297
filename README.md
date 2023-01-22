@@ -5,37 +5,33 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Anshika Mishar</h1>
+<h1 align="center">Hi 👋, I'm Anshika Mishra</h1>
 <h3 align="center">A passionate Web Developer from Fatehpur, Uttar Pradesh (India).</h3>
 
-#### Software professional having 2yrs of experience in software developement with expertise in Android Development, Java, JavaScript, React, React-Native, kotlin and experienced in solving more than 400+ Dsa problems. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills.
+#### Recent graduate with a Masters degree in Computer Applications and a passion for web development. With expertise in C,C++, HTML, CSS, Java, JavaScript, ES6+, React and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any software development team.
 
 ## 🙋‍♂️ About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
 
-🌱 **I’m currently learning :** React-Native Development
+🌱 **I’m currently learning :** MERN Stack Development (React and Node.js)
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-💬 **Ask me about :**  **Java, Kotlin, JavaScript, React, React-Native, Android, Data Structures and Algorithms.**
+💬 **Ask me about :**  **Java, HTML, CSS, JavaScript, React,Software Engineering, Data Structures and Algorithms.**
 
 🥅 **2022 Goals :** Learning new things and contribute more
 
-<!-- 📫 You can reach me at [chat](mailto:absilawat@gmail.com)! -->
+<!-- 📫 You can reach me at [chat](mailto:anshika.mishra1297@gmail.com)! -->
 
 
 
 
 - 👨‍💻 See My Projects [Portfolio](https://anurag-portfolio-0507.vercel.app/)
 
-- 🔭 I’m currently working on [Social Networking site](https://github.com/anuragn0507/SocialMedia_gfg1)
-
-- 🌱 I’m currently learning **React-Native**
-
-- 📝 I regularly write articles on [Blogs](https://medium.com/@anuragn1107)
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Android, React-Native, React.js, Javascript**
 
-- 📫 How to reach me **anuragn1107@gmail.com**
+- 📫 How to reach me **anshika.mishra1297@gmail.com**
 
 - 📄 My Experience [Resume](https://drive.google.com/file/d/1gTtpb3Y3j5b7N2GpIUDMxsObnwelFVWc/view?usp=sharing)
 
