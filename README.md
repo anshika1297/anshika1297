@@ -1,7 +1,7 @@
-<!-- <p align="left"> <img src="https://i.pngimg.me/thumb/f/720/5ef178e96dd64e879322.jpg" /> </p> -->
 
-<a href="#"><img width="100%"  src="https://i.pngimg.me/thumb/f/720/5ef178e96dd64e879322.jpg" height="auto"/></a>
-<!-- <img align="right" width="400px"  src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-developed-website-6818422-5606167.png" alt="3d img"/> -->
+
+<a href="#"><img width="100%"  src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-developed-website-6818422-5606167.png" height="400px"/></a>
+
 
 
 
