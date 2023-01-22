@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anshika Mishra</h1>
-<h3 align="center">A passionate Web Developer from Fatehpur, Uttar Pradesh (India).</h3>
+<h3 align="center">A passionate Web Developer from India.</h3>
 
 #### Recent graduate with a Masters degree in Computer Applications and a passion for web development. With expertise in C,C++, HTML, CSS, Java, JavaScript, ES6+, React and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any software development team.
 
