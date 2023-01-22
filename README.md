@@ -1,12 +1,12 @@
 
 
-<a href="#"><img width="100%"  src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-developed-website-6818422-5606167.png" height="400px"/></a>
+<a href="#"><img width="100%"  src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-developed-website-6818422-5606167.png" height="auto"/></a>
 
 
 
 
-<h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
-<h3 align="center">A passionate android developer from Bhopal, Madhya Pradesh (India).</h3>
+<h1 align="center">Hi 👋, I'm Anshika Mishar</h1>
+<h3 align="center">A passionate Web Developer from Fatehpur, Uttar Pradesh (India).</h3>
 
 #### Software professional having 2yrs of experience in software developement with expertise in Android Development, Java, JavaScript, React, React-Native, kotlin and experienced in solving more than 400+ Dsa problems. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills.
 
