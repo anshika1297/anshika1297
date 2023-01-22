@@ -53,7 +53,8 @@
 
 <p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=anshika1297&show_icons=true&locale=en&theme=tokyonight" alt="anshika1297" /></p>
 
-<p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshika1297&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anshika1297" /></p>
+<p align="center">![](https://github-profile-trophy.vercel.app/?username=anshika1297&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</p>
 
 
 
