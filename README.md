@@ -25,17 +25,16 @@
 
 
 
-- 👨‍💻 See My Projects [Portfolio](https://anurag-portfolio-0507.vercel.app/)
+- 👨‍💻 See My Projects [Portfolio](https://github.com/anshika1297?tab=repositories)
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Android, React-Native, React.js, Javascript**
+- 💬 Ask me about **C, C++, Java, Javascript**
 
 - 📫 How to reach me **anshika.mishra1297@gmail.com**
 
-- 📄 My Experience [Resume](https://drive.google.com/file/d/1gTtpb3Y3j5b7N2GpIUDMxsObnwelFVWc/view?usp=sharing)
+- 📄 My Experience [Resume](https://drive.google.com/file/d/1X_SeKvM330riWUYDa8CbKLMRfPu7nZcs/view?usp=sharing)
 
-- 📄 My Work [Appraisal letter](https://drive.google.com/file/d/1z1s-V3z_8rmjF9PavuleHWZU3R_L6MPH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
