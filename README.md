@@ -10,7 +10,7 @@
 
 #### Recent graduate with a Masters degree in Computer Applications and a passion for web development. With expertise in C,C++, HTML, CSS, Java, JavaScript, ES6+, React and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any software development team.
 
-## 🙋‍♂️ About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
+## About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
 
 🌱 **I’m currently learning :** MERN Stack Development (React and Node.js)
 
@@ -25,7 +25,7 @@
 
 
 
-- 👨‍💻 See My Projects [Portfolio](https://github.com/anshika1297?tab=repositories)
+- See My Projects [Portfolio](https://github.com/anshika1297?tab=repositories)
 
 - 🌱 I’m currently learning **React**
 
@@ -53,14 +53,12 @@
 
 <p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=anshika1297&show_icons=true&locale=en&theme=tokyonight" alt="anshika1297" /></p>
 
-<p align="center"><img align="center" width="90%" src="https://github-profile-trophy.vercel.app/?username=anshika1297&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="anshika1297" />
+<p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika1297&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="anshika1297" />
 </p>
 
-
-
-<br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+<br>
+<p align="center"><img align="center" width="90%" src="https://github-profile-trophy.vercel.app/?username=anshika1297&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="anshika1297" />
 <br/>
 <br/>
 
