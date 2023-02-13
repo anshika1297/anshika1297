@@ -12,11 +12,11 @@
 
 ## About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
 
-🌱 **I’m currently learning :** MERN Stack Development (React and Node.js)
+🌱 **I’m currently learning :** Mobile App Development (React and React Native)
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-💬 **Ask me about :**  **Java, HTML, CSS, JavaScript, React,Software Engineering, Data Structures and Algorithms.**
+💬 **Ask me about :**  **Java, HTML, CSS, JavaScript, React, Redux, ReactNative,Software Engineering, Data Structures and Algorithms.**
 
 🥅 **2022 Goals :** Learning new things and contribute more
 
@@ -27,9 +27,9 @@
 
 - See My Projects [Portfolio](https://github.com/anshika1297?tab=repositories)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactNative**
 
-- 💬 Ask me about **C, C++, Java,Web Development, Javascript**
+- 💬 Ask me about **C, C++, Java,Web Development, Javascript, React.js**
 
 - 📫 How to reach me **anshika.mishra1297@gmail.com**
 
