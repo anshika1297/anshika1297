@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Anshika Mishra</h1>
 <h3 align="center">A passionate Web Developer from India.</h3>
 
-#### Recent graduate with a Masters degree in Computer Applications and a passion for web development. With expertise in C,C++, HTML, CSS, Java, JavaScript, ES6+, React and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any software development team.
+#### Recent graduate with Masters degree in Computer Applications and a passion for web and App development. With expertise in C,C++, HTML, CSS, Java, JavaScript, ES6+, React, Redux, ReactNative and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any software development team.
 
 ## About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
 
