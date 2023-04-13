@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **anshika.mishra1297@gmail.com**
 
-- 📄 My Experience [Resume]([https://drive.google.com/file/d/10kh7j2JNN3lebKcd2FhuRppynHoG8vzB/view?usp=sharing](https://drive.google.com/file/d/1cQUC7vwFqht-nMamstSTIhHmaFajAQE8/view?usp=sharing))
+- 📄 My Experience [Resume](https://drive.google.com/file/d/1cQUC7vwFqht-nMamstSTIhHmaFajAQE8/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
